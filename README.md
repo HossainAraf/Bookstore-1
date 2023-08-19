@@ -1,14 +1,6 @@
-# Awesome books
+<h1 align="center"> # Awesome books <h1>
 
 <a name="readme-top"></a>
-
-<div align="center">
-
-  <br/>
-
-  <h3><b>Awesome books</b></h3>
-
-</div>
 
 # 📗 Table of Contents
 
